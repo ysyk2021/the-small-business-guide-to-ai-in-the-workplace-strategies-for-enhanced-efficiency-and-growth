@@ -1,5 +1,3 @@
-Improving Decision-Making with AI Predictive Analytics and Data Visualization
-=================================================================================================================================
 
 In this chapter, we will explore the use of predictive analytics and data visualization in small business decision-making and how AI can be leveraged to improve these processes.
 

@@ -1,5 +1,3 @@
-Enhancing Customer Service with AI-Powered Chatbots and Personalization
-=================================================================================================================================
 
 In this chapter, we will explore how small businesses can use AI-powered chatbots and personalization techniques to enhance customer service.
 

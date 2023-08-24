@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Small Business Growth
-==================================================
 
 In this chapter, we will explore how small businesses can use AI strategies to achieve growth and success.
 

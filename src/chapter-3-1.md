@@ -1,5 +1,3 @@
-Identifying Business Processes that Can Be Improved with AI
-==================================================================================================================
 
 In this chapter, we will explore how small businesses can identify business processes that can be improved with AI. By leveraging AI technology to automate routine tasks and improve efficiency, small businesses can achieve enhanced productivity and growth.
 

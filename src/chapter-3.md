@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Small Business
-=====================================================
 
 In this chapter, we will explore how small businesses can get started with AI and create a customized AI roadmap for business enhancement.
 

@@ -1,5 +1,3 @@
-Understanding the Tradeoffs of AI-Enhanced Business Operations
-========================================================================================================================
 
 As small businesses increasingly adopt artificial intelligence (AI) technology to enhance their operations, it is important to evaluate the impact of AI on small business and understand the tradeoffs of AI-enhanced business operations. In this chapter, we will explore the potential tradeoffs of AI technology for small businesses.
 

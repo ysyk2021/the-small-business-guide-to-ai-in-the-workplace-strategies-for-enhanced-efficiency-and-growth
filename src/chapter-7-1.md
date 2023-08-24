@@ -1,5 +1,3 @@
-The Future of AI Adoption in Small Business
-==================================================================
 
 In this book, we have explored the ways that small businesses can leverage AI technology to enhance efficiency and drive growth. From automating routine tasks to improving customer service and decision-making, AI has the potential to revolutionize the way small businesses operate.
 

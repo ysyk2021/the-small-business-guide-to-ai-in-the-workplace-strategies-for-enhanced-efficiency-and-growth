@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Small Business
-=========================================================
 
 In this chapter, we will explore key AI technologies that small businesses can leverage to improve their operations and achieve greater efficiency and growth.
 

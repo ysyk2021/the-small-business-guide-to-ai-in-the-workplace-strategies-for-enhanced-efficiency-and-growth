@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Small Business
-========================================================
 
 As small businesses increasingly adopt artificial intelligence (AI) technology to enhance their operations, it is important to evaluate the impact of AI on small business and understand the tradeoffs of AI-enhanced business operations. This chapter will explore how small businesses can evaluate the impact of AI and balance automation with human expertise.
 
