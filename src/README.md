@@ -18,3 +18,7 @@ Throughout the book, we will provide real-world examples and case studies of sma
 Whether you are new to AI technology or have already begun exploring its potential, this book will provide valuable insights and strategies for enhancing your small business operations. It is our hope that by reading this book, you will be inspired to embrace the power of AI and unlock its full potential for your small business.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
