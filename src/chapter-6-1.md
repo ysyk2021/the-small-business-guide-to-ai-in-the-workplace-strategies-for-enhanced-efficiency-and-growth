@@ -1,5 +1,4 @@
-Chapter 9: Understanding the Tradeoffs of AI-Enhanced Business Operations
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As small businesses embrace AI to enhance their efficiency and drive growth, it's crucial to recognize that there are tradeoffs involved. In this chapter, we will delve into the various tradeoffs and considerations that come with integrating AI into your business operations.
 

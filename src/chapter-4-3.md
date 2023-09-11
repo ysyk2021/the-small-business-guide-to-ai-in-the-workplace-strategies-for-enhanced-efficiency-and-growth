@@ -1,5 +1,4 @@
-Chapter 6: Improving Inventory Management and Supply Chain with AI-Powered Insights and Optimization
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's competitive business landscape, efficient inventory management and a streamlined supply chain are essential for small businesses. This chapter explores how small businesses can leverage AI-powered insights and optimization techniques to enhance these critical aspects of their operations.
 
